@@ -1,7 +1,6 @@
 # projeto site
  projeto de um site criado durante um curso de git e github
 
-<!DOCTYPE html>
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
